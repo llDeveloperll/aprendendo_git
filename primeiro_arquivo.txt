@@ -1,5 +1,12 @@
-Bom, o que eu aprendi primeiramente é que o Git é uma verdadeira mão na roda quando se trata de gerenciamento/gestão
+O que eu aprendi primeiramente é que o Git é uma verdadeira mão na roda quando se trata de gerenciamento
 seja para um simples projeto pessoal até um projeto gigantesco de uma empresa.
+
+A sua praticidade juntamente a ideia de ter vários locais com o mesmo código sempre atualizado auxilia demais 
+o workflow da equipe. 
+
+Se compararmos isso com uma análise manual, feita arquivo por arquivo. Com boas práticas inseridas pelos programadores, 
+tipo um commit bem explicado, o tempo levado para encontrar um problema, se atualizar em qual estagio o projeto 
+se encontra, ou o que ele necessita diminuirá drasticamente.
 
 
 -- Passos usados por mim, para criar esse repo:
@@ -34,4 +41,4 @@ git branch: da um informe em qual branch estamos "atuando" (Extremamente importa
 git remote add: especifica um repo (Online)
 git remote -v: mostra os links de fetch & pull do repo adicionado.
 
-git log: mostra as logs de commitgit
+git log: mostra as logs de commit
