@@ -1,0 +1,7 @@
+Bom, o que eu aprendi primeiramente é que o Git é uma verdadeira mão na roda quando se trata de gerenciamento/gestão
+seja para um simples projeto pessoal até um projeto gigantesco de uma empresa.
+
+Alguns comandos que eu aprendi são:
+
+git clone: clonar um repo já existente (Online)
+git commit -m: Adicionar um titulo e uma descrição as mudanças (Extremamente importante!)
