@@ -1,7 +1,37 @@
 Bom, o que eu aprendi primeiramente é que o Git é uma verdadeira mão na roda quando se trata de gerenciamento/gestão
 seja para um simples projeto pessoal até um projeto gigantesco de uma empresa.
 
+
+-- Passos usados por mim, para criar esse repo:
+
+1. Abri o Github e criei um novo repositorio vazio.
+
+2. Criei dois arquivos na minha pasta: primeiro_arquivo & README.md.
+
+3. Utilizei o commando <git add .> para colocar os arquivos em stage.
+
+4. Utilizei o commando <git commit -m> para efetuar meu primeiro commit.
+
+5. Utilizei o comando <git branch -M main> para selecionar a branch.
+
+6. Utilizei o comando <git remote add origin "link do meu repo"> para especificar meu repositorio.
+
+7. Utilizei o comando <git push -u origin main> para efetuar meu primeiro push neste repositorio.
+
 Alguns comandos que eu aprendi são:
 
+git init: cria o git no repo (local)
 git clone: clonar um repo já existente (Online)
+
+git status: verifica os status dos arquivos
+
 git commit -m: Adicionar um titulo e uma descrição as mudanças (Extremamente importante!)
+
+git branch -M: seleciona a branch
+git branch <nome-da-branch>: cria uma nova branch (ex: git branch <branch-develop>)
+git branch: da um informe em qual branch estamos "atuando" (Extremamente importante!)
+
+git remote add: especifica um repo (Online)
+git remote -v: mostra os links de fetch & pull do repo adicionado.
+
+git log: mostra as logs de commitgit
